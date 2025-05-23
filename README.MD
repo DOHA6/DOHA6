@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFFF¢er=true&vCenter=true&width=435&lines=Software+Engineering+Student+at+ENSIAS;Passionate+about+Tech+%26+Innovation;Always+Learning+%26+Growing;Problem+Solver+%26+Future+Developer" alt="Typing SVG" /></a>
 
-I'm a passionate and driven Software Engineering student at **ENSIAS (École Nationale Supérieure d'Informatique et d'Analyse des Systèmes)**. I'm enthusiastic about leveraging technology to build innovative solutions and solve real-world problems. My journey in software engineering is fueled by a love for learning and a constant curiosity about new technologies.
+I'm a passionate and driven Software Engineering student at **ENSIAS (École Nationale Supérieure d'Informatique et d'Analyse des Systèmes)**. I am enthusiastic about leveraging technology to build innovative solutions and solve real-world problems. My journey in software engineering is fueled by a love for learning and a constant curiosity about new technologies.
 
 ---
 
