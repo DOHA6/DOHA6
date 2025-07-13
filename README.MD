@@ -1,6 +1,5 @@
 # Hi there, I'm Doha Negraoui 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFFF¢er=true&vCenter=true&width=435&lines=Software+Engineering+Student+at+ENSIAS;Passionate+about+Tech+%26+Innovation;Always+Learning+%26+Growing;Problem+Solver+%26+Future+Developer" alt="Typing SVG" /></a>
 
 I'm a passionate and driven Software Engineering student at **ENSIAS (École Nationale Supérieure d'Informatique et d'Analyse des Systèmes)**. I am enthusiastic about leveraging technology to build innovative solutions and solve real-world problems. My journey in software engineering is fueled by a love for learning and a constant curiosity about new technologies.
 
@@ -9,7 +8,7 @@ I'm a passionate and driven Software Engineering student at **ENSIAS (École Nat
 ### 🚀 About Me
 
 *   👩‍💻 Currently a Software Engineering Student at **ENSIAS, Rabat**.
-*   🌱 Exploring various fields within software development, including [**mention 1-2 specific interests if she has them, e.g., Web Development, AI/ML, Mobile App Development, etc.**].
+*   🌱 Exploring various fields within software development, including [ Web Development, AI/ML, Mobile App Development, etc].
 *   💡 I'm always eager to collaborate on exciting projects and learn from others.
 *   🎯 My goal is to become a senior software engineer and contribute to impactful projects.
 
@@ -29,7 +28,7 @@ This is a selection of technologies I'm currently learning, working with, or int
 
 
 *   **Frameworks & Libraries:**
-    *   *(e.g., React, Angular, Spring Boot, Node.js, Django, Flask - Add any she's learning)*
+    *   *(e.g., React, Angular, Spring Boot, Node.js, Django, Flask, Tailwin css )*
     *   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) *(Example)*
     *   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) *(Example)*
 
@@ -55,7 +54,7 @@ This is a selection of technologies I'm currently learning, working with, or int
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" alt="Doha's GitHub Streak" />
 </p>
 
-*(Remember to replace `YOUR_GITHUB_USERNAME` with her actual GitHub username in the URLs above!)*
+
 
 ---
 
@@ -75,7 +74,7 @@ Here are a few projects I've been working on or contributed to:
 
 *   Sharpening my skills in [**mention a specific language/framework, e.g., Advanced Java, Data Structures & Algorithms**].
 *   Working on [**mention a type of project or concept, e.g., a full-stack web application, understanding distributed systems**].
-*   Preparing for [**mention any upcoming goals, e.g., internships, certifications**].
+*   Preparing for [** internships, certifications**].
 
 ---
 
