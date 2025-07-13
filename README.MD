@@ -72,8 +72,8 @@ Here are a few projects I've been working on or contributed to:
 
 ### 🌱 What I'm Currently Learning / Focusing On
 
-*   Sharpening my skills in [**mention a specific language/framework, e.g., Advanced Java, Data Structures & Algorithms**].
-*   Working on [**mention a type of project or concept, e.g., a full-stack web application, understanding distributed systems**].
+*   Sharpening my skills in [**Advanced Java, Database administration, Data Structures & Algorithms**].
+*   Working on [** full-stack web applications, understanding distributed systems**].
 *   Preparing for [** internships, certifications**].
 
 ---
@@ -81,7 +81,7 @@ Here are a few projects I've been working on or contributed to:
 ### 📫 How to Reach Me
 
 
-*   **Email:** [your.email@example.com](mailto:negraouidoha@gmail.com)
+*   **Email:** [negraouidoha.com](mailto:negraouidoha@gmail.com)
 
 
 
