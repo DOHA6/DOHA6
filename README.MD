@@ -58,25 +58,6 @@ This is a selection of technologies I'm currently learning, working with, or int
 
 ---
 
-### 📚 Projects
-
-Here are a few projects I've been working on or contributed to:
-
-*   **[Project Name 1]**: [Brief description of the project and technologies used. Link to repo if public.]
-    *   *Tech Stack: [e.g., Java, Spring Boot, MySQL]*
-*   **[Project Name 2]**: [Brief description of the project and technologies used. Link to repo if public.]
-    *   *Tech Stack: [e.g., Python, Flask, HTML, CSS]*
-*   _(Add more projects as she completes them!)_
-
----
-
-### 🌱 What I'm Currently Learning / Focusing On
-
-*   Sharpening my skills in [**Advanced Java, Database administration, Data Structures & Algorithms**].
-*   Working on [** full-stack web applications, understanding distributed systems**].
-*   Preparing for [** internships, certifications**].
-
----
 
 ### 📫 How to Reach Me
 
